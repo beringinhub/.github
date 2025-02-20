@@ -8,6 +8,7 @@
 ## 🚀 Apa yang Kami Tawarkan
 - **All-in-One Platform**: Kami telah mengembangkan platform produktivitas yang terintegrasi dengan fitur AI Assistant. Anda dapat mengeksplorasi lebih lanjut di [Beringin Hub Apps](https://apps.beringinhub.com).
 - **Proyek Open Source**: Kami mengembangkan dan mendukung berbagai proyek open source untuk meningkatkan produktivitas dan inovasi.
+- **Ruang Baca**: Kami memberikan bahan bacaan yang berfokus pada Produktivitas, AI dan Bisnis. Ingin tahu lebih dalam rekomendasi bacaan kami mampier ke [Beringin Hub Reading Space](https://oasis.beringinhub.com)
 - **Komunitas**: Bergabunglah dengan kami untuk berbagi pengetahuan dan pengalaman dengan anggota lainnya.
 - **Pembelajaran**: Akses ke referensi, tutorial, dan sumber daya untuk mendukung pengembangan keterampilan.
 

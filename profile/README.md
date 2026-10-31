@@ -24,11 +24,3 @@ describe what has shipped, not what is planned.
 [Instagram](https://instagram.com/beringinhub) ·
 [Threads](https://www.threads.com/@beringinhub) ·
 [support@beringinhub.com](mailto:support@beringinhub.com)
-
----
-
-**Bahasa Indonesia** — BeringinHub membangun workspace AI tempat chat, proyek,
-dokumen, dan waktu tetap terhubung. Tiga produk kami: **Beringin AI** (workspace),
-**Beringin Cloud** (deploy aplikasi self-hosted), dan **Beringin Learn** (kursus
-& skill untuk builder). Arah kami satu akar — satu akun, satu data, satu lapisan
-AI — dan kami menuliskan apa yang sudah jadi, bukan yang masih rencana.

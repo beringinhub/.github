@@ -1,25 +1,34 @@
-# 👋 Selamat Datang di Beringin Hub!
+# BeringinHub
 
-[![GitHub Organization](https://img.shields.io/badge/GitHub-Organization-brightgreen.svg)](https://github.com/beringin-hub)
-[![Website](https://img.shields.io/badge/Website-link-informational.svg)](https://beringinhub.com/id/about)
+**One root, every tool.** We build an AI workspace where chat, projects,
+docs and time stay connected — instead of scattering across five apps.
 
-**Beringin Hub** adalah komunitas yang didedikasikan untuk inovator, entrepreneur, dan profesional di Indonesia. Kami berkomitmen untuk mendukung pertumbuhan dan inovasi melalui ekosistem yang saling mendukung.
+[Website](https://beringinhub.com) · [Apps](https://apps.beringinhub.com) ·
+[Blog](https://blog.beringinhub.com)
 
-## 🚀 Apa yang Kami Tawarkan
-- **All-in-One Platform**: Kami telah mengembangkan platform produktivitas yang terintegrasi dengan fitur AI Assistant. Anda dapat mengeksplorasi lebih lanjut di [Beringin Hub Apps](https://apps.beringinhub.com).
-- **Proyek Open Source**: Kami mengembangkan dan mendukung berbagai proyek open source untuk meningkatkan produktivitas dan inovasi.
-- **Ruang Baca**: Kami memberikan bahan bacaan yang berfokus pada Produktivitas, AI dan Bisnis. Ingin tahu lebih dalam rekomendasi bacaan kami mampier ke [Beringin Hub Reading Space](https://oasis.beringinhub.com)
-- **Komunitas**: Bergabunglah dengan kami untuk berbagi pengetahuan dan pengalaman dengan anggota lainnya.
-- **Pembelajaran**: Akses ke referensi, tutorial, dan sumber daya untuk mendukung pengembangan keterampilan.
+## What we're building
 
-## 🌍 Bergabung Dengan Kami
-- Ikuti kami di:
-  - [Instagram](https://instagram.com/beringinhub)
-  - [Threads](https://instagram.com/beringinhub)
-  - [Blog](https://blog.beringinhub.com)
+- **Beringin AI** — workspace: chat, projects, docs, wiki, time tracking, agents
+  → [apps.beringinhub.com](https://apps.beringinhub.com)
+- **Beringin Cloud** — one-click deploy for self-hosted apps
+  → [cloud.beringinhub.com](https://cloud.beringinhub.com)
+- **Beringin Learn** — courses and skills for builders
+  → [learn.beringinhub.com](https://learn.beringinhub.com)
 
-## 💬 Hubungi Kami
-Jika Anda memiliki pertanyaan, jangan ragu untuk menghubungi kami di [support@beringinhub.com](mailto:support@beringinhub.com).
+Each product works on its own today. The direction is one root: one account,
+one data graph, one AI layer across all of them. We build in public and
+describe what has shipped, not what is planned.
 
-## 🌟 Terima Kasih
-Terima kasih telah mengunjungi Beringin Hub! Mari kita bersama-sama membangun sesuatu yang luar biasa.
+## Contact
+
+[Instagram](https://instagram.com/beringinhub) ·
+[Threads](https://www.threads.com/@beringinhub) ·
+[support@beringinhub.com](mailto:support@beringinhub.com)
+
+---
+
+**Bahasa Indonesia** — BeringinHub membangun workspace AI tempat chat, proyek,
+dokumen, dan waktu tetap terhubung. Tiga produk kami: **Beringin AI** (workspace),
+**Beringin Cloud** (deploy aplikasi self-hosted), dan **Beringin Learn** (kursus
+& skill untuk builder). Arah kami satu akar — satu akun, satu data, satu lapisan
+AI — dan kami menuliskan apa yang sudah jadi, bukan yang masih rencana.
